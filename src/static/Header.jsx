@@ -1,5 +1,5 @@
 import React from 'react'
-import Button from '../reuseable/button'
+import Button from '../reuseable/Button'
 import { RiArrowDropDownFill } from "react-icons/ri";
 import { RxCross1 } from "react-icons/rx";
 import { Link } from "react-router-dom";
