@@ -13,3 +13,11 @@
 body {
   margin: 0;
 }
+
+button{
+  background-color: black;
+  color: white;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}

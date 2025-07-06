@@ -1,8 +1,8 @@
 import React from 'react'
 
-const button = ({title, bgcolor, textcolor, borderColor}) => {
+const button = ({title, bgcolor, textcolor, iconTitle, borderColor}) => {
   return (
-    <div className='hidden tablet:block'>
+    <div>
         <button
         style={{
             backgroundColor: `${bgcolor}`,
