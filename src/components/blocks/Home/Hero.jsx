@@ -1,7 +1,7 @@
 import React from 'react'
 import heroImg from '../../../assets/hero.png'
 import { MdKeyboardArrowRight } from "react-icons/md";
-import Button from "../../../reuseable/button"
+import Button from "../../../reuseable/Button"
 import { FaGooglePlay, FaApple } from "react-icons/fa";
 
 const Hero = () => {
