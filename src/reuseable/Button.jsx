@@ -1,6 +1,6 @@
 import React from 'react'
 
-const button = ({title, bgcolor, textcolor, iconTitle, borderColor}) => {
+const Button = ({title, bgcolor, textcolor, iconTitle, borderColor}) => {
   return (
     <div>
         <button
@@ -19,4 +19,4 @@ const button = ({title, bgcolor, textcolor, iconTitle, borderColor}) => {
   )
 }
 
-export default button
+export default Button

@@ -1,5 +1,5 @@
 import Pages from '../reuseable/Pages'
-import Button from '../reuseable/button'
+import Button from '../reuseable/Button'
 import { motion } from 'framer-motion'
 
 const Stories = () => {
